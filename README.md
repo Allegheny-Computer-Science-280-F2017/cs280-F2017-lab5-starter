@@ -25,8 +25,8 @@ PROBLEMS?
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter for Laboratory 5 in Computer Science 280. You
 will use this repository to review the contributions that you and your team
-members made when addressing all of the issues in the issue tracker for the
-[GatorGrouper](https://github.com/gkapfham/gatorgrouper) project.
+members made when addressing all of the issues in the issue tracker for the two
+projects that you complete for this assignment.
 
 ## Travis
 
