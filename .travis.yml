@@ -12,11 +12,6 @@ cache:
 before_install:
   - gem install mdl
 
-# # command to install dependencies
-# install:
-#   - pip install --upgrade pip
-#   - python3 -m pip install -r generator/requirements.txt
-
 # perform testing:
 # --> check the quality of the README file
 script:
